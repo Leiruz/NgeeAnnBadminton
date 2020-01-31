@@ -1,0 +1,29 @@
+﻿body
+{
+}
+
+hr.light-100 {
+    border-top: 1px solid #999999;
+    width: 100%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+
+footer a {
+    color: blue;
+}
+
+footer p {
+    color: grey;
+}
+
+
+footer {
+    background-color: #f1f1f1;
+    color: black;
+    padding-top: .5rem;
+}
+
+.content {
+    padding: 1.5rem;
+}
