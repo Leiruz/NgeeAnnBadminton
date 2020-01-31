@@ -91,7 +91,7 @@ section {
 }
 
 .bg-image {
-    background-image: url("resizeteambadminton.png");
+    background-image: url("../media/badminton images/resizeteambadminton.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
