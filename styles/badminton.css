@@ -34,7 +34,7 @@ html {
     opacity: 0.8;
 }
 .navbar-nav{
-    margin-left: 57%;
+    margin-left: 50%;
 }
 
 nav ul li a {
@@ -183,7 +183,7 @@ width: auto;*/
 }
 .pic1 {
     visibility: hidden;
-    width: 850px;
+    width: 700px;
     height: 550px;
     border-radius: 20px;
     padding: 10px;  
