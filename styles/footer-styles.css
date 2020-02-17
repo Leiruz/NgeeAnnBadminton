@@ -28,7 +28,7 @@ footer {
     padding: 1.5rem;
 }
 
-.content:hover #myId.top{
+#myId:hover {
     color:deeppink;
     text-decoration:none;
 }
