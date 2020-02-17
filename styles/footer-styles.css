@@ -28,7 +28,11 @@ footer {
     padding: 1.5rem;
 }
 
-a:hover{
+.content:hover #myId.top{
     color:deeppink;
     text-decoration:none;
 }
+/*a:hover{
+    color:deeppink;
+    text-decoration:none;
+}*/
