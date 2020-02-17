@@ -27,3 +27,8 @@ footer {
 .content {
     padding: 1.5rem;
 }
+
+a :hover{
+    text-decoration: none;
+    color: grey;
+}
