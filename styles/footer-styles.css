@@ -28,6 +28,6 @@ footer {
     padding: 1.5rem;
 }
 
-a :hover{
+a:hover{
     text-decoration: none;
 }
